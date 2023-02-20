@@ -7,6 +7,9 @@
 - Ethplorer Mainnet : [0x30e193bd3f52713d5562cf316f35115034525f44](https://ethplorer.io/address/0x30e193bd3f52713d5562cf316f35115034525f44#chart=candlestick)
 - Etherscan Mainnet : [0x30e193bd3f52713d5562cf316f35115034525f44](https://etherscan.io/address/0x30E193bd3F52713D5562cf316f35115034525f44)
 - Main Features: Run on the ethereum blockchain
+- Market Cap 10,000,000,000
+- Total supply of GTEC 10,000,000,000  
+- Note: The GTEC/HHO Pair is backed by the RIN Credits (Renewable Indentificaton Number)
 
 ## Table of Contents
 - [Tokenomics](#Tokenomics)
