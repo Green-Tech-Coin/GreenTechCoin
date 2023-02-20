@@ -30,11 +30,15 @@
 
 - Note: The HHO Tokens is backed by the RIN Credits (Renewable Indentificaton Number)
 
+# Price of GTEC
+
+
+
 # Price of HHO
  
  1 HHO = RIN(D3+D4+D5+D6)/4 = $0.6925
 
-![Latest RIN Prices](/images/RIN-Trades-and-Price-Information.png)
+![Latest RIN Prices]([https://github.com/Hydrogen-Blockchain-Innovations/HydrogenToken/blob/master/images/RIN-Trades-and-Price-Information.png])
 
 
 # Proposed Roll-out Strategy
