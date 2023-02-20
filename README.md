@@ -51,7 +51,7 @@
 
 # Proposed Roll-out Strategy
 
-
+![Roadmap](https://github.com/Green-Tech-Coin/GreenTechCoin/blob/main/images/green-mining-farm-with-banner-deliver-blue-color_orig.png)
 
 ## Tokenomics
 [Tokenomics Paper](https://github.com/Green-Tech-Coin/GreenTechCoin/blob/main/docs/Green%20Tech%20Coin%20Tokenomics%20101%20%5Bv1.0%5D.pdf)
