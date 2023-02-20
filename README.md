@@ -47,7 +47,7 @@
 
 
 ## Tokenomics
-[GTEC Tokenomics](https://github.com/Hydrogen-Blockchain-Innovations/HydrogenToken/blob/master/docs/(v1.6)%20HHO%20White%20Paper%20%5BRevised%5D.pdf)
+[Tokenomics Paper](https://github.com/Hydrogen-Blockchain-Innovations/HydrogenToken/blob/master/docs/(v1.6)%20HHO%20White%20Paper%20%5BRevised%5D.pdf)
 
 ## Wiki
 [Project Wiki](https://github.com/Hydrogen-Blockchain-Innovations/HydrogenToken/wiki)
