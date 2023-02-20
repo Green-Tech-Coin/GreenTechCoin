@@ -53,7 +53,7 @@
 [Tokenomics Paper](https://github.com/Green-Tech-Coin/GreenTechCoin/blob/main/docs/Green%20Tech%20Coin%20Tokenomics%20101%20%5Bv1.0%5D.pdf)
 
 ## Wiki
-[Project Wiki](https://github.com/Hydrogen-Blockchain-Innovations/HydrogenToken/wiki)
+[Project Wiki](https://github.com/Green-Tech-Coin/GreenTechCoin/wiki)
 
 ## License
 
