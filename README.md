@@ -9,7 +9,7 @@
 - Main Features: Run on the ethereum blockchain
 
 ## Table of Contents
-- [WhitePaper](#White-Paper)
+- [Tokenomics](#Tokenomics)
 - [Usage](#usage)
 - [Wiki](#Wiki)
 - [Contribute](#contribute)
@@ -32,6 +32,7 @@
 
 # Price of GTEC
 
+![Coinpaprika Chart](https://user-images.githubusercontent.com/8299759/220157437-d88ecf52-ce34-4a5e-a04c-5923f720ab33.png)
 
 
 # Price of HHO
@@ -45,7 +46,7 @@
 
 
 
-## White-Paper
+## Tokenomics
 [Hydrogen Innovations Whitepaper](https://github.com/Hydrogen-Blockchain-Innovations/HydrogenToken/blob/master/docs/(v1.6)%20HHO%20White%20Paper%20%5BRevised%5D.pdf)
 
 ## Wiki
