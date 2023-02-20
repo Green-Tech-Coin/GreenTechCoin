@@ -32,14 +32,14 @@
 
 # Price of GTEC
 
-![Coinpaprika Chart](https://user-images.githubusercontent.com/8299759/220157437-d88ecf52-ce34-4a5e-a04c-5923f720ab33.png)
+![Coinpaprika Chart](images/CoinPaprika_GTEC_price_7d_2023-02-20.jpeg?raw=true)
 
 
 # Price of HHO
  
  1 HHO = RIN(D3+D4+D5+D6)/4 = $0.6925
 
-![Latest RIN Prices](https://github.com/Green-Tech-Coin/GreenTechCoin/blob/main/images/RIN-Trades-and-Price-Information.png)
+![Latest RIN Prices](images/RIN-Trades-and-Price-Information.png)
 
 
 # Proposed Roll-out Strategy
