@@ -5,7 +5,7 @@
 
 ## Token Brand
 
-[Token Image](https://github.com/Green-Tech-Coin/GreenTechCoin/blob/main/images/greentechcoin-350px-deliver-03%20(1).png)
+![Token Image](https://github.com/Green-Tech-Coin/GreenTechCoin/blob/main/images/greentechcoin-350px-deliver-03%20(1).png)
 
 > What is an Green Tech Coin or (GTEC)?  
 - Ethplorer Mainnet : [0x30e193bd3f52713d5562cf316f35115034525f44](https://ethplorer.io/address/0x30e193bd3f52713d5562cf316f35115034525f44#chart=candlestick)
