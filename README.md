@@ -3,6 +3,10 @@
 ## Welcome to Green Tech Coin
 [![Gitter](https://badges.gitter.im/intergalacticcredits/community.svg)](https://gitter.im/Blockchain-Bank/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
+## Token Brand
+
+[Token Image](https://github.com/Green-Tech-Coin/GreenTechCoin/blob/main/images/greentechcoin-350px-deliver-03%20(1).png)
+
 > What is an Green Tech Coin or (GTEC)?  
 - Ethplorer Mainnet : [0x30e193bd3f52713d5562cf316f35115034525f44](https://ethplorer.io/address/0x30e193bd3f52713d5562cf316f35115034525f44#chart=candlestick)
 - Etherscan Mainnet : [0x30e193bd3f52713d5562cf316f35115034525f44](https://etherscan.io/address/0x30E193bd3F52713D5562cf316f35115034525f44)
