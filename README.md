@@ -55,7 +55,7 @@
 
 > GEM creates a circular economy – recycling plastic waste into new energy products rather than being thrown away – technologies that give new life to waste plastics could transform the problem of mounting waste plastic.  For example, GEM uses pyrolysis to recover valuable energy sent directly into our crypto mining facility rather than waste plastics in landfills, rivers, or oceans.
 
-- Intial Project Budget 20,571,898.8GTEC Tokens or equivelant $10M
+- Intial Project Budget 20,571,898.8 GTEC Tokens or equivelant $10M based on @ $0.4861/GTEC token
 
 [Project Website](https://greenmining.farm)
 
