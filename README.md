@@ -53,7 +53,9 @@
 
 ![Roadmap](https://github.com/Green-Tech-Coin/GreenTechCoin/blob/main/images/green-mining-farm-with-banner-deliver-blue-color_orig.png)
 
-> GEM creates a circular economy – recycling plastic waste into new energy products rather than being thrown away – technologies that give new life to waste plastics could transform the problem of mounting waste plastic.  For example, GEM uses pyrolysis to recover valuable energy sent directly into our crypto mining facility rather than waste plastics in landfills, rivers, or oceans. 
+> GEM creates a circular economy – recycling plastic waste into new energy products rather than being thrown away – technologies that give new life to waste plastics could transform the problem of mounting waste plastic.  For example, GEM uses pyrolysis to recover valuable energy sent directly into our crypto mining facility rather than waste plastics in landfills, rivers, or oceans.
+
+- Intial Project Budget 20,571,898.8GTEC Tokens or equivelant $10M
 
 [Project Website](https://greenmining.farm)
 
